@@ -1,4 +1,4 @@
-## [SARCalNet](https://www.sarcalnet.org)
+## SARCalNet (https://www.sarcalnet.org)
 
 This GitHub Organization hosts SARCalNet related projects and resources.
 
